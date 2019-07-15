@@ -7,6 +7,7 @@
 # Playlist support added. Max tracks per is currently 100. Implement code to iterate through multiple jsons to increase plist limit.
 # Single track and downloading from txt file removed temporarily.
 # New CLI untested.
+# New fields in config file / cli options in [Main]: tokenOverride, [Playlist]: waitBetweenTracks, taggingScheme.
 
 # standard
 import os
