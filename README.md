@@ -2,7 +2,7 @@
 Tool written in Python to download AACs & FLACs from Tidal for Windows, macOS & Linux.
 Sister of [Qo-DL](https://github.com/Sorrow446/Qobuz-DL) and [GPM-DL](https://github.com/Sorrow446/GPM-DL).
 
-**8th Jul: New build coming soon. Currently working on a complete refactor & playlist support.**
+**8th Aug: New build coming soon. Working on a new build. Discog, video, plist support will be added. Big refactor / rewrite.**
 
 Latest versions:   
 
